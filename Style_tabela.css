@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    background-image: url(./imagens/fundo_tabela.jpg);
+}
+.imagem_tabela {
+    text-align: center;
+    border-bottom: 2px solid;
+}
+.centralizar {
+    width: 500px;
+    margin: 25px;
+}
+
+.tabela {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.custom {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto ;
+    
+}
+.custom th {
+    
+    background-color: green;
+    color: white;
+}
+
+.cabeçalho {
+    height: 25px;
+}
+tr {
+    padding: 15px;
+    text-align: center;
+}
+tr:hover {
+    background-color: #ddd;
+}
+
+p {
+    text-align: center;
+}
